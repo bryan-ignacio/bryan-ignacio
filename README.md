@@ -15,7 +15,7 @@
 </div>
 <hr /> 
 <div>
-  <h3>tecnologías que he empleado en mis proyectos:</h3>
+  <h3>🧑‍🔬 Tecnologías que he empleado en mis proyectos:</h3>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,git,go,react,js,ts,astro,html,css,py,flask,aws,postgres,docker,cpp&perline=6&theme=light" />
