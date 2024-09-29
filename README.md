@@ -1,6 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bryan-ignacio.bryan-ignacio"/>
-
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <!--
 **bryan-ignacio/bryan-ignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
