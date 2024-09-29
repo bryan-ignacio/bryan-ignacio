@@ -13,4 +13,12 @@
   <a href=#></a>
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 </div>
-
+<hr /> 
+<div>
+  <h3>tecnologías que he empleado en mis proyectos:</h3>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,spring,js,ts,py,kotlin,androidstudio,react,html,css,cpp,aws,astro,docker,postgres,go,flask&perline=6&theme=light" />
+  </a>
+</p>
+</div>
