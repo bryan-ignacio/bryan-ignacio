@@ -7,7 +7,7 @@
   <h3>Contáctame a través de:</h3>
 </div>
 <div align="center">
-  <a href="mailto:bryan-ignacio@outlook.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" />
   </a>
   <a href=#></a>
