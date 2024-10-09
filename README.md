@@ -23,7 +23,6 @@
 </p>
 </div>
 <hr/>
-<h3>🐍 Snake destruyendo mis contribuciones:</h3>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bryan-ignacio/bryan-ignacio/output/github-contribution-grid-snake-dark.svg" />
 </div>
