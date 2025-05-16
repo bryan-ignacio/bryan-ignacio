@@ -4,7 +4,7 @@
   <h3>🧑‍🔬 Tecnologías que he empleado en mis proyectos:</h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,git,go,react,js,ts,astro,css,py,flask,postgres,cpp,cs#&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,go,react,js,ts,astro,css,py,flask,postgres,cpp,cs#&perline=6&theme=light" />
   </a>
 </p>
 </div>
