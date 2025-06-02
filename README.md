@@ -8,7 +8,7 @@
   </a>
 </p>
   <h3>💼 portfolio:</h3>
-  <a href="https://musical-halva-b7a381.netlify.app/"></a>
+  <a href="https://musical-halva-b7a381.netlify.app/">cv</a>
 </div>
 <hr/>
 <div align="center">
