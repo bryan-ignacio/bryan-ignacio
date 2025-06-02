@@ -7,6 +7,8 @@
     <img src="https://skillicons.dev/icons?i=kotlin,java,go,js,astro,py,flask,cpp,cs,dotnet#&perline=6&theme=light" />
   </a>
 </p>
+  <h3>💼 portfolio:</h3>
+  <a href="https://musical-halva-b7a381.netlify.app/"></a>
 </div>
 <hr/>
 <div align="center">
