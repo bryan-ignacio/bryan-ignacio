@@ -4,11 +4,11 @@
   <h3>🧑‍🔬 Tecnologías que he empleado en mis proyectos:</h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,go,js,astro,py,flask,cpp,cs,dotnet#&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,go,js,py,flask,cpp,cs,dotnet#&perline=6&theme=light" />
   </a>
 </p>
-  <h3>💼 portfolio:</h3>
-  <a href="https://musical-halva-b7a381.netlify.app/">pagina web CV</a>
+<!--   <h3>💼 portfolio:</h3> -->
+<!--   <a href="https://musical-halva-b7a381.netlify.app/">pagina web CV</a> -->
 </div>
 <hr/>
 <div align="center">
