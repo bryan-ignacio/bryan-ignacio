@@ -1,11 +1,11 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bryan-ignacio.bryan-ignacio&left_text=My%20Page%20Visitors)
 
 <div>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ignacio&layout=compact&theme=radical)
+  <div align="center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ignacio&layout=compact&theme=radical)
+  </div>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryan-ignacio&theme=dark)](https://git.io/streak-stats)
-
+  
   <h3>🧑‍🔬 Tecnologías que he empleado en mis proyectos:</h3>
   <p align="center">
   <a href="https://skillicons.dev">
