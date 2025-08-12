@@ -1,9 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bryan-ignacio.bryan-ignacio&left_text=My%20Page%20Visitors)
 
 <div>
-  <div align="center">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ignacio&layout=compact&theme=radical)
-  </div>
   
   
   <h3>🧑‍🔬 Tecnologías que he empleado en mis proyectos:</h3>
