@@ -4,6 +4,9 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ignacio&layout=compact&theme=radical)
 
+  <div align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryan-ignacio&theme=dark)](https://git.io/streak-stats)
+  </div>
   
   <h3>🧑‍🔬 Tecnologías que he empleado en mis proyectos:</h3>
   <p align="center">
